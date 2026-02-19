@@ -1,5 +1,6 @@
 // Wasteland portal
-let frameBlock = "kubejs:lead_casing"
+//let frameBlock = "kubejs:lead_casing"
+let frameBlock = "thermal:lead_block"
 let rodBlock = "alexscaves:uranium_rod"
 
 // checking for interdimensional anomalies
