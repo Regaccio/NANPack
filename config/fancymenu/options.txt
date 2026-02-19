@@ -28,7 +28,7 @@ B:show_custom_window_icon = 'false'; ## for future generations, kubejs icon sett
 S:custom_window_icon_macos = '/config/fancymenu/assets/autisnatuics2icon32.icns';
 S:custom_window_icon_macos = '/config/fancymenu/assets/autisnatuics2icon32.icns';
 S:custom_window_icon_32 = '/config/fancymenu/assets/autisnatuics2icon32.png';
-S:custom_window_title = 'Autisnautics II';
+S:custom_window_title = 'Rebuild of GafPack XIV Minus One: You Will (Not) FLAOT';
 
 
 ##[multiplayer_screen]
