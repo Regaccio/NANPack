@@ -1,5 +1,9 @@
 # Changelog
 
+## [0.1.34]
+### Changes
+- Forked into NAN: ripped out CABIN, quests, almost all Kube scripts, etc. etc.
+
 ## [0.0.34]
 ### Changes
 - version bump 2?
