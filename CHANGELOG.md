@@ -1,4 +1,7 @@
 # Changelog
+## [0.1.35]
+### Changes
+- More lobotomizing + fix auto builds?
 
 ## [0.1.34]
 ### Changes

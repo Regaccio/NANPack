@@ -1,7 +1,7 @@
 {
-    "name": "Autisnautics 2",
+    "name": "NANPack",
     "version": "0.0.34",
-    "description": "an abstract kind of version control hell",
+    "description": "it's Not AutisNautics tm",
     "author": "Invalid, Regaccio",
     "overrides": [
         "icon.png",
