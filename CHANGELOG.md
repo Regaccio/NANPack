@@ -1,4 +1,8 @@
 # Changelog
+## [0.1.37]
+### Changes
+- Total nuclear annihilation of quests
+
 ## [0.1.36]
 ### Changes
 - Copyright infringement
