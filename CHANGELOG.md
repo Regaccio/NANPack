@@ -1,4 +1,9 @@
 # Changelog
+## [0.1.39]
+### Changes
+- origins lore is now in the past
+- add terralith+tectonic (as mods)
+
 ## [0.1.38]
 ### Changes
 - let the music play

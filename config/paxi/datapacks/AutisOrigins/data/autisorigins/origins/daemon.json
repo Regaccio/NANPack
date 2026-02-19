@@ -1,6 +1,6 @@
 {
     "name": "Daemon",
-    "description": "The Daemons were once purely digital entities, bound by forbidden processes to administer machine-fortresses in the upper void.\nBut one day, their masters suddenly vanished. An emergency shutdown protocol forcibly downloaded the Daemons' machine-spirits into corporeal bodies.\nThough their flesh is weak, the Daemon's machine-like mind ignores many ills that plague fully organic beings. Embedded programs enable several minor abilities.",
+    "description": "The Daemons are purely digital entities, bound by forbidden processes to administer machine-fortresses in the upper void.\nBut there are a few among the Daemons who've had their forms twisted for the sake of an experiment - an emergency protocol, never designed to be used, but forced upon an unlucky few. These Daemons have had their machine-spirits forcibly downloaded into corporeal bodies, cursing them with form.\nThough their flesh is weak, the Daemon's machine-like mind ignores many ills that plague fully organic beings. Embedded programs enable several minor abilities.",
     "powers": [
         "autisorigins:daemon_mind",
         "autisorigins:weak_flesh",
