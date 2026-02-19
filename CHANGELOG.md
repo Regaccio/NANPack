@@ -1,4 +1,8 @@
 # Changelog
+## [0.1.38]
+### Changes
+- let the music play
+
 ## [0.1.37]
 ### Changes
 - Total nuclear annihilation of quests
